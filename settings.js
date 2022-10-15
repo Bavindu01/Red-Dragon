@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94 71 989 2396'] // owner number
-global.ownername = "😎 Bavindu ❯❯" // owner name
+global.vcardowner = ['+1 (614) 924-2798'] // owner number
+global.ownername = "😎 Theekshana ❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -162,7 +162,7 @@ global.ntilink = []
 
 // DO NOT CHANGE THIS. ERROR WARNING දාන්න තැනක් නැතුව මෙතන දැම්මෙ.
 global.rep = { // All Replies = 145
-    K1: '🫢හායි😁❤️',
+    K1: '🫢හායි😁❤️',j
     K2: '🤭හූයි✌️💞🫶',
     K3: '😉🫶හායි😂',
     K4: '🥴හූයි😊',
